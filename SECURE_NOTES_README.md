@@ -117,7 +117,7 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 
 ### Frontend URL (CORS)
 ```properties
-frontend.url=http://localhost:3000
+frontend.url={Hosted URL}
 ```
 
 ### OAuth2 (Google Example)
