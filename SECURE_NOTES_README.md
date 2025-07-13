@@ -13,8 +13,6 @@ This is a secure, full-stack notes application built with Spring Boot. It featur
 - [Database Schema](#database-schema)
 - [API Endpoints](#api-endpoints)
 - [Security Features](#security-features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **User Authentication**: Secure user registration, login, and password reset.
@@ -157,8 +155,4 @@ Refer to detailed `README` above. Grouped into:
 - Method-level security
 - Custom JWT and OAuth2 filters
 
-## Contributing
-Contributions are welcome! Open issues or submit PRs for bugs or features.
 
-## License
-MIT License
