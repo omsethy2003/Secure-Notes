@@ -155,4 +155,7 @@ Refer to detailed `README` above. Grouped into:
 - Method-level security
 - Custom JWT and OAuth2 filters
 
+## Admin WalkThrough Video Demo
+https://github.com/user-attachments/assets/93ac4966-f892-41d3-bdc6-6568f1b13466
+
 
