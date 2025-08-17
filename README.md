@@ -2,6 +2,15 @@
 
 This is a secure, full-stack notes application built with Spring Boot. It features user authentication, a robust security model, and a clean architecture for managing user notes.
 
+## User WalkThrough Video Demo
+https://github.com/user-attachments/assets/ff909e94-df74-471e-b598-3a1d36a5aa7c
+
+## Admin WalkThrough Video Demo
+https://github.com/user-attachments/assets/93ac4966-f892-41d3-bdc6-6568f1b13466
+
+
+## Backend
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
